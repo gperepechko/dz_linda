@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-25T01:28:43+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/stimorol/Desktop/onauke1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./onauke1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:00ba57d2-0080-40cb-a00d-906031b9a6ea</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="27459"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="28594"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="29526"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="30499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="31040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="32770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="32796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="34690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="34742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="36798"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="36825"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="40014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="40095"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="42743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="42743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="43731"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="44879"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="46969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="46973"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="52484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="55060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="57030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="57060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="70090"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="greg" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@ysr1944m" TIER_ID="text@ysr1944m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>потому что эээ если вы эээ как математик, то вы должны знать двоичный счет древних русов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>#одновременно# ноль / ноль, целковый, полушка, четвертушка, осьмушка, пудовичок, медячок, серебрячок, золотничок, осьмичок, девятичок, десятичок / так считали наши предки / а когда нам придумал Пётр Первый с Магнитским математику липовую, с этого началась подмена сознания // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>фальшивая математика //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>только обманывать и ограблять народ //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>это совершенно точно / и поэтому нам двют таблицу... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>это абсолютно точно, но самое... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>а я же вам сказал: нам говорят, что ара... мы от арабов научились, а я и говорю: ну скажите, пожалуйста, значение ноля кто знает? / только у русских //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>точка отсчёта - ноль / мало того, ноль играет следующую роль: перевод на следующий уровень через десятки, нам только один дали математики / десять... нолей, сто, тысяча и так далее / но самое главное... //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="greg" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@bsb1954" TIER_ID="text@bsb1954">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>ну вот древних русов счёта #одновременно# я не знаю как математик // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>фальшивая математика, да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>то есть по ней считать - только обсчитывать, да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>о! / это сильно! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>а причём во всём мире ведь этой математикой пользуются? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>и все #нрзб# они, кто же это такой вот ээ творец этого заговора? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>да это ладно, от кого научились / #нрзб# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
