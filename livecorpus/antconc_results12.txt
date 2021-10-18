@@ -1,0 +1,388 @@
+1	 _PRON раздражительно_ADV ,_PUNCT --_PUNCT и_CCONJ 	вот_PART ._PUNCT ._PUNCT ._PUNCT --_PUNCT она_PRON достать	karenina_lemma_pos.txt
+2	 уйста_ADV ,_PUNCT спросить_VERB ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT --_PUNCT сказать_VERB он_PRON и_	karenina_lemma_pos.txt
+3	 яться_VERB Корделия_PROPN ._PUNCT ._PUNCT ._PUNCT 	вот_PART !_PUNCT --_PUNCT сказать_VERB Песцов_PROPN ,_PUNC	karenina_lemma_pos.txt
+4	 _VERB утюг_NOUN ._PUNCT  --_PUNCT ну_PART ,_PUNCT 	вот_PART !_PUNCT а_CCONJ все_PRON отчаиваться_VERB ,_	karenina_lemma_pos.txt
+5	 _VERB это_PRON неприличный_ADJ ._PUNCT  так_ADV 	вот_PART ,_PUNCT в_ADP этот_DET положение_NOUN 	karenina_lemma_pos.txt
+6	  ,_PUNCT закурить_VERB она_PRON ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT видеть_VERB ли_PART ,_PUNCT я_	karenina_lemma_pos.txt
+7	 -_PUNCT сказать_VERB Анна_PROPN ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT вот_PART как_ADV вы_PRON 	karenina_lemma_pos.txt
+8	  с_ADP досада_NOUN сказать_VERB :_PUNCT «_PUNCT 	вот_PART ,_PUNCT все_PRON дожидаться_VERB вы_PRON ,_	karenina_lemma_pos.txt
+9	 _PUNCT повязать_VERB лычок_NOUN ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT дядя_NOUN Герасим_PROPN ,_PUNCT вороный_	karenina_lemma_pos.txt
+10	 INTJ ,_PUNCT вы_PRON знать_VERB !_PUNCT  --_PUNCT 	вот_PART ,_PUNCT ей-богу_PART ,_PUNCT ни_PART 	karenina_lemma_pos.txt
+11	  к_ADP себя_PRON Кознышев_PROPN ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT ехать_VERB ,_PUNCT провожать_VERB он_	karenina_lemma_pos.txt
+12	  каждый_DET слово_NOUN ._PUNCT  --_PUNCT а_CCONJ 	вот_PART ,_PUNCT как_ADV делать_VERB несчастье_NOUN 	karenina_lemma_pos.txt
+13	  быть_AUX тяжелый_ADJ ._PUNCT  --_PUNCT так_ADV 	вот_PART ,_PUNCT княгиня_NOUN ,_PUNCT я_PRON за_	karenina_lemma_pos.txt
+14	  рука_NOUN и_CCONJ увести_VERB ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT мама_NOUN ,_PUNCT --_PUNCT сказать_VERB 	karenina_lemma_pos.txt
+15	 енский_ADJ губернский_ADJ правление_NOUN ._PUNCT  	вот_PART ,_PUNCT не_PART угодно_ADV ли_PART ._	karenina_lemma_pos.txt
+16	 на_PROPN нравиться_VERB он_PRON ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT не_PART угодно_ADV ли_PART ?_	karenina_lemma_pos.txt
+17	  ,_PUNCT все_PRON равный_ADJ ._PUNCT  так_ADV 	вот_PART ,_PUNCT ты_PRON знать_VERB ,_PUNCT с_	karenina_lemma_pos.txt
+18	 оезжать_VERB в_ADP Москва_PROPN ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT ты_PRON всегда_ADV приписывать_VERB 	karenina_lemma_pos.txt
+19	 оворить_VERB слово_NOUN ._PUNCT  --_PUNCT так_ADV 	вот_PART ,_PUNCT я_PRON и_PART уезжать_VERB ,_	karenina_lemma_pos.txt
+20	 сжимать_VERB он_PRON горло_NOUN ._PUNCT  --_PUNCT 	вот_PART ,_PUNCT я_PRON приехать_VERB к_ADP 	karenina_lemma_pos.txt
+21	 _SCONJ ты_PRON унизиться_VERB ,_PUNCT так_ADV 	вот_PART Бог_PROPN ,_PUNCT а_CCONJ вот_PART 	karenina_lemma_pos.txt
+22	 B знакомый_NOUN ._PUNCT  --_PUNCT а_CCONJ ,_PUNCT 	вот_PART Каренин_PROPN !_PUNCT --_PUNCT сказать_VERB он_	karenina_lemma_pos.txt
+23	 _ADP слава_NOUN один_NUM ,_PUNCT что_PRON 	вот_PART Рябинин_PROPN ,_PUNCT а_CCONJ не_PART 	karenina_lemma_pos.txt
+24	  огурец_NOUN на_ADP поднос_NOUN ._PUNCT  --_PUNCT 	вот_PART Яшвин_PROPN велить_VERB пить_VERB ,_PUNCT 	karenina_lemma_pos.txt
+25	 нкий_ADJ сукно_NOUN сюртук_NOUN ._PUNCT  --_PUNCT 	вот_PART бицепс-то_ADV !_PUNCT  самсон_NOUN !_PUNCT  --_	karenina_lemma_pos.txt
+26	  ,_PUNCT который_PRON я_PRON делать_VERB ,_PUNCT 	вот_PART благодаря_ADP Николай_PROPN Иваныч_PROPN (_PUNCT 	karenina_lemma_pos.txt
+27	  рука_NOUN и_CCONJ плечо_NOUN ._PUNCT  --_PUNCT 	вот_PART бог_NOUN привести_VERB радость_NOUN именинник_	karenina_lemma_pos.txt
+28	  жизнь_NOUN !_PUNCT  как_ADV хороший_ADJ !_PUNCT  	вот_PART бы_AUX как_ADV я_PRON желать_	karenina_lemma_pos.txt
+29	  в_ADP что_PRON же_PART ?_PUNCT  --_PUNCT 	вот_PART в_ADP что_PRON ._PUNCT  положить_VERB ,_	karenina_lemma_pos.txt
+30	 _PRON ?_PUNCT  --_PUNCT где_ADV они_PRON ?_PUNCT  	вот_PART в_ADP что_PRON вопрос_NOUN !_PUNCT --_	karenina_lemma_pos.txt
+31	 _PUNCT мальчик_NOUN и_CCONJ девочка_NOUN ._PUNCT  	вот_PART в_ADP прошлый_ADJ мясоед_NOUN отнять_	karenina_lemma_pos.txt
+32	 _ADV вынимать_VERB бинокль_NOUN ._PUNCT  --_PUNCT 	вот_PART в_ADP это_PRON я_PRON ,_PUNCT 	karenina_lemma_pos.txt
+33	 _VERB в_ADP Москва_PROPN ._PUNCT  и_CCONJ 	вот_PART в_ADP Москва_PROPN ,_PUNCT где_ADV 	karenina_lemma_pos.txt
+34	 он_PRON дрожать_VERB голос_NOUN ._PUNCT  --_PUNCT 	вот_PART ваш_DET муж_NOUN ._PUNCT  действительно_ADV ,_	karenina_lemma_pos.txt
+35	   --_PUNCT знать_VERB ,_PUNCT знать_VERB ._PUNCT  	вот_PART верить_VERB бог_NOUN ,_PUNCT матушка_NOUN 	karenina_lemma_pos.txt
+36	 инанье_NOUN ._PUNCT  --_PUNCT отчего_ADV ?_PUNCT  	вот_PART вздор_ADV !_PUNCT  --_PUNCT но_CCONJ не_	karenina_lemma_pos.txt
+37	  да_PART ,_PUNCT доложить_VERB ._PUNCT  и_CCONJ 	вот_PART взять_VERB телеграмма_NOUN ,_PUNCT передать_VERB 	karenina_lemma_pos.txt
+38	 шительно_ADV не_PART знать_VERB ._PUNCT  --_PUNCT 	вот_PART видеть_VERB ли_PART ,_PUNCT --_PUNCT сказать_	karenina_lemma_pos.txt
+39	 казать_VERB и_CCONJ делать_VERB ._PUNCT  --_PUNCT 	вот_PART видеть_VERB ли_PART ._PUNCT ._PUNCT ._PUNCT  --_	karenina_lemma_pos.txt
+40	 CT  --_PUNCT быть_VERB ,_PUNCT брат_NOUN !_PUNCT  	вот_PART видеть_VERB ли_PART ,_PUNCT ты_PRON 	karenina_lemma_pos.txt
+41	 _ADP нога_NOUN ._PUNCT  --_PUNCT ну_PART ,_PUNCT 	вот_PART видеть_VERB ,_PUNCT как_ADV она_PRON 	karenina_lemma_pos.txt
+42	  в_ADP бювар_NOUN ._PUNCT  --_PUNCT но_CCONJ 	вот_PART видеть_VERB ли_PART ,_PUNCT что_PRON 	karenina_lemma_pos.txt
+43	  отчего_ADV же_PART ?_PUNCT  --_PUNCT а_CCONJ 	вот_PART видеть_VERB ._PUNCT  вы_PRON вот_PART 	karenina_lemma_pos.txt
+44	  целовать_VERB ее_DET рука_NOUN ._PUNCT  --_PUNCT 	вот_PART видеть_VERB ._PUNCT  завтра_ADV ._PUNCT ._PUNCT .	karenina_lemma_pos.txt
+45	 о_NOUN любимый_ADJ человек_NOUN ._PUNCT  --_PUNCT 	вот_PART видеть_VERB этот_DET большой_ADJ строение_	karenina_lemma_pos.txt
+46	 _NOUN с_ADP сердце_NOUN ,_PUNCT ты_PRON 	вот_PART видеть_VERB ._PUNCT  теперь_ADV у_ADP 	karenina_lemma_pos.txt
+47	 NCT необожженный_ADJ или_CCONJ обжечь_ADJ ?_PUNCT 	вот_PART вопрос_NOUN ._PUNCT  --_PUNCT да_PART ,_PUNCT 	karenina_lemma_pos.txt
+48	 _ADP травка_NOUN и_CCONJ готовый_ADJ ,_PUNCT 	вот_PART вот_PART вспорхнуть_VERB ,_PUNCT развернуть_VERB 	karenina_lemma_pos.txt
+49	 _PUNCT один_NUM желание_NOUN успеть_VERB --_PUNCT 	вот_PART все_PRON ,_PUNCT что_PRON быть_AUX 	karenina_lemma_pos.txt
+50	 T исполнять_VERB ее_DET обязанность_NOUN ._PUNCT  	вот_PART все_PRON ,_PUNCT что_PRON я_PRON 	karenina_lemma_pos.txt
+51	 _PART не_PART быть_AUX негодяй_ADJ ._PUNCT  	вот_PART все_PRON ,_PUNCT что_PRON я_PRON 	karenina_lemma_pos.txt
+52	  кружев_NOUN на_ADP голова_NOUN ._PUNCT  --_PUNCT 	вот_PART все_PRON ,_PUNCT что_PRON я_PRON 	karenina_lemma_pos.txt
+53	 _AUX быть_AUX хороший_ADJ я_PRON ._PUNCT  	вот_PART все_PRON ,_PUNCT что_PRON я_PRON 	karenina_lemma_pos.txt
+54	 ва_NOUN ._PUNCT ._PUNCT ._PUNCT  --_PUNCT а_CCONJ 	вот_PART вспомнить_VERB ,_PUNCT да_PART поздно_ADV ,_	karenina_lemma_pos.txt
+55	 _NOUN и_CCONJ готовый_ADJ ,_PUNCT вот_PART 	вот_PART вспорхнуть_VERB ,_PUNCT развернуть_VERB радужный_	karenina_lemma_pos.txt
+56	  свияжский_ADJ ._PUNCT  --_PUNCT а_CCONJ мы_PRON 	вот_PART встретиться_VERB в_ADP первый_ADJ раз_	karenina_lemma_pos.txt
+57	 _AUX свой_DET уберечь_VERB ._PUNCT  уйти_VERB 	вот_PART второй_ADJ раз_NOUN другак_NOUN ._PUNCT ._	karenina_lemma_pos.txt
+58	  шедеть_VERB к_ADP крыльцо_NOUN ._PUNCT  --_PUNCT 	вот_PART вчера_ADV не_PART прийти_VERB в_	karenina_lemma_pos.txt
+59	 ._PUNCT ._PUNCT ._PUNCT  --_PUNCT да_PART ,_PUNCT 	вот_PART вы_PRON казаться_VERB !_PUNCT  а_CCONJ 	karenina_lemma_pos.txt
+60	 ERB рука_NOUN Камеровский_PROPN ._PUNCT  --_PUNCT 	вот_PART вы_PRON никогда_ADV не_PART уметь_	karenina_lemma_pos.txt
+61	  давно_ADV не_PART есть_VERB ._PUNCT  --_PUNCT 	вот_PART вы_PRON хоть_ADV похвалить_VERB ,_PUNCT --_	karenina_lemma_pos.txt
+62	 _ADJ игрок_NOUN в_ADP крокет_NOUN ._PUNCT  	вот_PART вы_PRON видеть_VERB ._PUNCT  и_CCONJ ,_	karenina_lemma_pos.txt
+63	 _ADP грязь_NOUN ._PUNCT  --_PUNCT ну_PART ,_PUNCT 	вот_PART вы_PRON и_CCONJ гость_NOUN приехать_	karenina_lemma_pos.txt
+64	 арочка_NOUN хороший_ADJ ._PUNCT  --_PUNCT а_CCONJ 	вот_PART вы_PRON спорить_VERB ,_PUNCT Марья_PROPN 	karenina_lemma_pos.txt
+65	 _ADP он_PRON ._PUNCT  --_PUNCT да_PART ,_PUNCT 	вот_PART вы_PRON над_ADP это_PRON сметься_	karenina_lemma_pos.txt
+66	 PUNCT  и_CCONJ Сергей_PROPN Иваныч_PROPN !_PUNCT  	вот_PART вы_PRON бы_AUX сказать_VERB от_	karenina_lemma_pos.txt
+67	 _ADP чужой_ADJ человек_NOUN ?_PUNCT  и_CCONJ 	вот_PART выйти_VERB ,_PUNCT что_SCONJ я_PRON 	karenina_lemma_pos.txt
+68	 _PRON я_PRON с_ADP умный_ADJ !_PUNCT  	вот_PART выпить_VERB и_PART в_ADP Chateau_	karenina_lemma_pos.txt
+69	 PRON --_PUNCT другой_ADJ ._PUNCT  --_PUNCT я_PRON 	вот_PART говорить_VERB Анна_PROPN Аркадьевна_PROPN ,_PUNCT	karenina_lemma_pos.txt
+70	  прямой_ADJ убыток_NOUN ?_PUNCT  --_PUNCT а_CCONJ 	вот_PART делать_VERB !_PUNCT  что_PRON приказать_VERB ?_	karenina_lemma_pos.txt
+71	 _NOUN не_PART запомнить_VERB ._PUNCT  я_PRON 	вот_PART дома_ADV быть_VERB ,_PUNCT там_ADV 	karenina_lemma_pos.txt
+72	 _SCONJ ты_PRON понимать_VERB это_PRON ._PUNCT  	вот_PART если_SCONJ ты_PRON быть_AUX трудиться_	karenina_lemma_pos.txt
+73	 -_PUNCT прибавить_VERB она_PRON ._PUNCT  --_PUNCT 	вот_PART если_SCONJ бы_AUX я_PRON знать_	karenina_lemma_pos.txt
+74	 ушка_NOUN ._PUNCT  --_PUNCT виноватый_ADJ ,_PUNCT 	вот_PART еще_ADV злодей_NOUN идти_VERB ._PUNCT  	karenina_lemma_pos.txt
+75	  вы_PRON ,_PUNCT и_CCONJ видеть_VERB --_PUNCT 	вот_PART женщина_NOUN ,_PUNCT который_PRON мочь_VERB 	karenina_lemma_pos.txt
+76	  ._PUNCT  «_PUNCT да_PART ,_PUNCT да_PART ,_PUNCT 	вот_PART женщина_NOUN !_PUNCT »_PUNCT --_PUNCT думать_VERB	karenina_lemma_pos.txt
+77	 _PRON же_PART думать_VERB ,_PUNCT а_CCONJ 	вот_PART жить_VERB и_CCONJ находить_VERB ,_PUNCT 	karenina_lemma_pos.txt
+78	 OUN ._PUNCT  --_PUNCT болото_NOUN начинаться_VERB 	вот_PART здесь_ADV ,_PUNCT прямо_ADV перед_ADP 	karenina_lemma_pos.txt
+79	 PUNCT  стива_NOUN !_PUNCT  облонский_ADJ !_PUNCT  	вот_PART и_PART он_PRON !_PUNCT »_PUNCT --_PUNCT 	karenina_lemma_pos.txt
+80	  ,_PUNCT но_CCONJ садиться_VERB же_PART ,_PUNCT 	вот_PART и_PART суп_NOUN ._PUNCT  но_CCONJ 	karenina_lemma_pos.txt
+81	 ADP который_PRON все_PRON вертеться_VERB ._PUNCT  	вот_PART и_PART мой_DET дело_NOUN плохой_	karenina_lemma_pos.txt
+82	 ствие_NOUN ,_PUNCT мой_DET почтенье»_NOUN ,_PUNCT 	вот_PART и_PART весь_DET драма_NOUN ._PUNCT  	karenina_lemma_pos.txt
+83	 _NOUN на_ADP весы_NOUN ._PUNCT  однако_ADV 	вот_PART и_PART поезд_NOUN ._PUNCT  действительно_ADV ,_	karenina_lemma_pos.txt
+84	  к_ADP старший_ADJ сын_NOUN ._PUNCT  --_PUNCT 	вот_PART и_PART Лаврентий_PROPN ,_PUNCT --_PUNCT сказать_	karenina_lemma_pos.txt
+85	  же_PART ужин_NOUN ?_PUNCT  а_CCONJ ,_PUNCT 	вот_PART и_PART он_PRON ,_PUNCT --_PUNCT проговорить_	karenina_lemma_pos.txt
+86	 _PART говорить_VERB ,_PUNCT а_CCONJ потом_ADV 	вот_PART и_PART ._PUNCT ._PUNCT ._PUNCT  --_PUNCT Maman_	karenina_lemma_pos.txt
+87	 _ADJ дверь_NOUN ._PUNCT  --_PUNCT а_CCONJ ,_PUNCT 	вот_PART и_PART вы_PRON наконец_ADV !_PUNCT --_	karenina_lemma_pos.txt
+88	 ?_PUNCT  трое_NUM не_PART приходить_VERB ._PUNCT  	вот_PART и_PART Семен_PROPN ._PUNCT  --_PUNCT ну_	karenina_lemma_pos.txt
+89	 _VERB что-то_PRON ._PUNCT  --_PUNCT а_CCONJ 	вот_PART и_PART вы_PRON приехать_VERB ,_PUNCT --_	karenina_lemma_pos.txt
+90	  ,_PUNCT и_CCONJ конец_NOUN ._PUNCT  а_CCONJ 	вот_PART и_PART глазунья_NOUN ,_PUNCT самый_ADJ 	karenina_lemma_pos.txt
+91	 росить_VERB он_PRON Яшвин_PROPN ._PUNCT  --_PUNCT 	вот_PART и_PART тройка_NOUN ,_PUNCT --_PUNCT прибавить_	karenina_lemma_pos.txt
+92	 ексей_PROPN Александрович_PROPN ._PUNCT  --_PUNCT 	вот_PART и_PART краса_NOUN Петергоф_PROPN ,_PUNCT 	karenina_lemma_pos.txt
+93	  другой_ADJ лицо_NOUN ._PUNCT  «_PUNCT да_CCONJ 	вот_PART и_PART этот_DET дама_NOUN и_	karenina_lemma_pos.txt
+94	 ый_ADJ красный_ADJ сумочка_NOUN ._PUNCT  --_PUNCT 	вот_PART и_PART папа_NOUN приехать_VERB !_PUNCT --_	karenina_lemma_pos.txt
+95	 на_PROPN Павловна_PROPN ._PUNCT  --_PUNCT а_CCONJ 	вот_PART и_PART мадам_NOUN Шталь_PROPN ,_PUNCT --_	karenina_lemma_pos.txt
+96	 орить_VERB Бетси_PROPN ._PUNCT  --_PUNCT но_CCONJ 	вот_PART и_PART они_PRON ._PUNCT  xviii_NUM  	karenina_lemma_pos.txt
+97	 _PRON вы_PRON привезти_VERB гость_NOUN ._PUNCT  	вот_PART и_PART он_PRON ._PUNCT  неожиданный_ADJ 	karenina_lemma_pos.txt
+98	 DP поцелуй_NOUN ._PUNCT  --_PUNCT ну_PART ,_PUNCT 	вот_PART и_PART он_PRON !_PUNCT --_PUNCT вскрикнуть_	karenina_lemma_pos.txt
+99	 _NUM я_PRON любить_VERB она_PRON ._PUNCT  	вот_PART и_PART сад_NOUN казенный_ADJ дача_	karenina_lemma_pos.txt
+100	 о_ADV образовать_VERB народ_NOUN ,_PUNCT --_PUNCT 	вот_PART и_PART все_PRON ._PUNCT  --_PUNCT но_	karenina_lemma_pos.txt
+101	  без_ADP я_PRON брать_VERB ._PUNCT  --_PUNCT 	вот_PART и_PART правда_NOUN ,_PUNCT --_PUNCT сказать_	karenina_lemma_pos.txt
+102	 звать_VERB свой_DET девочка_NOUN )_PUNCT ._PUNCT  	вот_PART и_PART она_PRON ,_PUNCT --_PUNCT прибавить_	karenina_lemma_pos.txt
+103	 _PART плохой_ADJ другой_ADJ ._PUNCT  a_X 	вот_PART и_PART она_PRON ._PUNCT  xxxiii_NUM  	karenina_lemma_pos.txt
+104	 DJ недоросший_ADJ лепесток_NOUN ._PUNCT  --_PUNCT 	вот_PART и_PART линейка_NOUN догнать_VERB мы_	karenina_lemma_pos.txt
+105	 _ADJ лакей_NOUN ._PUNCT  --_PUNCT а_CCONJ ,_PUNCT 	вот_PART и_PART он_PRON !_PUNCT --_PUNCT сказать_	karenina_lemma_pos.txt
+106	 опоздавать_VERB ._PUNCT  --_PUNCT а_CCONJ ,_PUNCT 	вот_PART и_PART он_PRON ._PUNCT  --_PUNCT ты_	karenina_lemma_pos.txt
+107	 VERB обед_NOUN ._PUNCT  --_PUNCT а_CCONJ !_PUNCT  	вот_PART и_PART они_PRON !_PUNCT --_PUNCT в_	karenina_lemma_pos.txt
+108	  как_ADV шлюпик_NOUN ?_PUNCT  --_PUNCT ты_PRON 	вот_PART и_PART не_PART знать_VERB этот_	karenina_lemma_pos.txt
+109	 UNCT  он_PRON бонмотист_NOUN большой_ADJ ._PUNCT  	вот_PART и_PART спрашивать_VERB князь_NOUN Чеченский_	karenina_lemma_pos.txt
+110	 _ADP свой_DET тихий_ADJ затон_NOUN ._PUNCT  	вот_PART и_PART наш_DET приятель_NOUN Федор_	karenina_lemma_pos.txt
+111	 _PART чувствовать_VERB это_PRON ._PUNCT  --_PUNCT 	вот_PART и_PART я_PRON ,_PUNCT --_PUNCT сказать_	karenina_lemma_pos.txt
+112	 _CCONJ не_PART брат_NOUN славянин_NOUN ._PUNCT  	вот_PART и_PART Константин_PROPN ._PUNCT  --_PUNCT личный_	karenina_lemma_pos.txt
+113	 NJ звонить_VERB ._PUNCT  --_PUNCT ну_PART ,_PUNCT 	вот_PART идти_VERB теперь_ADV ,_PUNCT Паша_PROPN 	karenina_lemma_pos.txt
+114	  ?_PUNCT  нет_PART ,_PUNCT надоесть_VERB ._PUNCT  	вот_PART именно_PART за_ADP то_PRON я_	karenina_lemma_pos.txt
+115	 N английский_ADJ пословица_NOUN ._PUNCT  --_PUNCT 	вот_PART именно_PART ,_PUNCT --_PUNCT подхватить_VERB Бетс	karenina_lemma_pos.txt
+116	 казать_VERB он_PRON грустно_ADV ._PUNCT  --_PUNCT 	вот_PART именно_PART один_NUM из_ADP тот_	karenina_lemma_pos.txt
+117	 _ADV несчастливый_ADJ для_ADP она_PRON ._PUNCT  	вот_PART именно_PART наоборот_ADV ,_PUNCT --_PUNCT прибави	karenina_lemma_pos.txt
+118	  отойти_VERB от_ADP они_PRON ._PUNCT  --_PUNCT 	вот_PART именно_PART вполне_ADV русский_ADJ ,_PUNCT 	karenina_lemma_pos.txt
+119	  все_PRON заниматься_VERB хозяйство_NOUN ._PUNCT  	вот_PART именно_PART в_ADP затона_NOUN ,_PUNCT --_	karenina_lemma_pos.txt
+120	 _PUNCT Сергей_PROPN Иваныч_PROPN ?_PUNCT  а_CCONJ 	вот_PART к_ADP что_PRON !_PUNCT --_PUNCT вдруг_	karenina_lemma_pos.txt
+121	 ь_VERB Николай_PROPN Левин_PROPN ,_PUNCT --_PUNCT 	вот_PART к_ADP что_PRON ._PUNCT ._PUNCT ._PUNCT  	karenina_lemma_pos.txt
+122	 RON раздражить_VERB Левин_PROPN ._PUNCT  --_PUNCT 	вот_PART к_ADP что_PRON !_PUNCT --_PUNCT горячиться_	karenina_lemma_pos.txt
+123	 CT сказать_VERB Облонский_PROPN ._PUNCT  --_PUNCT 	вот_PART как_ADV !_PUNCT --_PUNCT Honni_PROPN soit_	karenina_lemma_pos.txt
+124	  он_PRON очень_ADV жаль_ADV ._PUNCT  --_PUNCT 	вот_PART как_ADV !_PUNCT ._PUNCT  я_PRON думать_	karenina_lemma_pos.txt
+125	 _PUNCT все_PRON собираться_VERB ._PUNCT  --_PUNCT 	вот_PART как_ADV !_PUNCT --_PUNCT проговорить_VERB князь_	karenina_lemma_pos.txt
+126	 PROPN Дмитрич_PROPN ,_PUNCT казаться_VERB ,_PUNCT 	вот_PART как_ADV отец_NOUN родной_ADJ стараться_	karenina_lemma_pos.txt
+127	  деньги_NOUN ,_PUNCT мой_DET лес_NOUN ._PUNCT  	вот_PART как_ADV Рябинин_PROPN торговать_VERB ,_PUNCT 	karenina_lemma_pos.txt
+128	 RT отстать_VERB ._PUNCT ._PUNCT ._PUNCT  --_PUNCT 	вот_PART как_ADV !_PUNCT  но_CCONJ сказать_VERB ,_	karenina_lemma_pos.txt
+129	 ERB Анна_PROPN ._PUNCT  --_PUNCT вот_PART ,_PUNCT 	вот_PART как_ADV вы_PRON делать_VERB ,_PUNCT 	karenina_lemma_pos.txt
+130	  по_ADP крайний_ADJ мера_NOUN ._PUNCT  --_PUNCT 	вот_PART как_ADV !_PUNCT  милость_NOUN просить_VERB ,_	karenina_lemma_pos.txt
+131	 ET просвещение_NOUN и_CCONJ счастие_NOUN ._PUNCT  	вот_PART как_ADV я_PRON понимать_VERB ._PUNCT  	karenina_lemma_pos.txt
+132	  то_PRON же_PART ._PUNCT  --_PUNCT так_ADV 	вот_PART как_ADV ,_PUNCT --_PUNCT начать_VERB Вронский_	karenina_lemma_pos.txt
+133	  это_PRON ,_PUNCT видеть_VERB ли_PART ,_PUNCT 	вот_PART как_ADV :_PUNCT двое_NUM садиться_VERB 	karenina_lemma_pos.txt
+134	 ый_ADJ прекрасный_ADJ глаз_NOUN ._PUNCT  --_PUNCT 	вот_PART как_ADV действовать_VERB вера_NOUN настоящий_	karenina_lemma_pos.txt
+135	  обед_NOUN ._PUNCT  --_PUNCT два_NUM слово_NOUN 	вот_PART какой_DET ,_PUNCT --_PUNCT сказать_VERB Левин_	karenina_lemma_pos.txt
+136	  ,_PUNCT на_ADP палец_NOUN ._PUNCT  палец_NOUN 	вот_PART какой_DET --_PUNCT огромный_ADJ !_PUNCT  но_	karenina_lemma_pos.txt
+137	  ,_PUNCT что_PRON она_PRON делать_VERB ._PUNCT  	вот_PART какой_DET гадость_NOUN ._PUNCT  тысяча_NOUN 	karenina_lemma_pos.txt
+138	 DP прелесть_NOUN !_PUNCT  весловский_NOUN ,_PUNCT 	вот_PART когда_ADV серенада_NOUN ._PUNCT  ты_PRON 	karenina_lemma_pos.txt
+139	 -_PUNCT сказать_VERB другой_ADJ ._PUNCT  --_PUNCT 	вот_PART мой_DET спаситель_NOUN !_PUNCT --_PUNCT закричать	karenina_lemma_pos.txt
+140	 я_PRON несчастливый_ADJ ?_PUNCT  нет_PART ,_PUNCT 	вот_PART мой_DET счастье_NOUN ._PUNCT ._PUNCT ._PUNCT  	karenina_lemma_pos.txt
+141	 ET поразить_VERB Вронский_PROPN ._PUNCT  --_PUNCT 	вот_PART мой_DET положение_NOUN ._PUNCT  вы_PRON 	karenina_lemma_pos.txt
+142	 еловский_PROPN недавно_ADV жениться_VERB ._PUNCT  	вот_PART молодец_NOUN !_PUNCT  не_PART правда_NOUN 	karenina_lemma_pos.txt
+143	 _ADJ или_CCONJ не_PART должен_ADJ ._PUNCT  	вот_PART мужик_NOUN тоже_PART ,_PUNCT смотреть_VERB 	karenina_lemma_pos.txt
+144	 любить_VERB больше_ADV свой_DET ._PUNCT  --_PUNCT 	вот_PART мужчина_NOUN говорить_VERB ._PUNCT  в_ADP 	karenina_lemma_pos.txt
+145	 т_NOUN медицинский_ADJ понадобиться_VERB ._PUNCT  	вот_PART мы_PRON для_ADP Агафья_PROPN Михайловна_	karenina_lemma_pos.txt
+146	 _ADV можно_ADV много_NUM ребенок_NOUN ._PUNCT  	вот_PART мы_PRON с_ADP брат_NOUN плохо_	karenina_lemma_pos.txt
+147	 N ,_PUNCT он_PRON краснеть_VERB ._PUNCT  --_PUNCT 	вот_PART мы_PRON говорить_VERB ,_PUNCT что_SCONJ 	karenina_lemma_pos.txt
+148	 погодить_VERB ,_PUNCT я_PRON подать_VERB ._PUNCT  	вот_PART мы_PRON папаше_ADV показать_VERB ,_PUNCT 	karenina_lemma_pos.txt
+149	 _PRON свой_DET и_CCONJ новенький_ADJ ._PUNCT  	вот_PART мы_PRON выдумать_VERB в_ADP чашка_	karenina_lemma_pos.txt
+150	 _VERB он_PRON все_PRON !_PUNCT  и_CCONJ 	вот_PART награда_NOUN !_PUNCT  о_INTJ ,_PUNCT как_	karenina_lemma_pos.txt
+151	  укоризненно_ADV на_ADP они_PRON ._PUNCT  «_PUNCT 	вот_PART найти_VERB время_NOUN разговаривать_VERB ,_PUNCT 	karenina_lemma_pos.txt
+152	 _PRON из_ADP новый_ADJ кофейник_NOUN ._PUNCT  	вот_PART не_PART ждать_VERB !_PUNCT  надеяться_VERB ,_	karenina_lemma_pos.txt
+153	 VERB еще_ADV человек_NOUN пятнадцать_NUM ._PUNCT  	вот_PART не_PART приходить_VERB ._PUNCT  нынче_ADV 	karenina_lemma_pos.txt
+154	 _PUNCT то_SCONJ «_PUNCT вы»_NOUN )_PUNCT ?_PUNCT  	вот_PART не_PART ждать_VERB !_PUNCT  а_CCONJ 	karenina_lemma_pos.txt
+155	 лексей_PROPN Александрович_PROPN ._PUNCT  «_PUNCT 	вот_PART некстати_ADV ;_PUNCT неужели_PART ночевать_VERB ?	karenina_lemma_pos.txt
+156	 не_PART хотеться_VERB есть_VERB ._PUNCT  --_PUNCT 	вот_PART неразлучный_ADJ ,_PUNCT --_PUNCT прибавить_VERB Я	karenina_lemma_pos.txt
+157	 _SCONJ я_PRON напугать_VERB она_PRON ?_PUNCT  	вот_PART нынче_ADV весна_NOUN Натали_PROPN Голицына_	karenina_lemma_pos.txt
+158	  ._PUNCT  а_CCONJ все_PRON делать_VERB ._PUNCT  	вот_PART нынче_ADV сад_NOUN насадить_VERB ._PUNCT  --_	karenina_lemma_pos.txt
+159	 т_DET ужасный_ADJ положение_NOUN ?_PUNCT --_PUNCT 	вот_PART о_ADP что_PRON надо_ADV подумать_	karenina_lemma_pos.txt
+160	 _SCONJ он_PRON застать_VERB она_PRON ,_PUNCT 	вот_PART о_ADP что_PRON :_PUNCT она_PRON 	karenina_lemma_pos.txt
+161	 дный_ADJ ._PUNCT ._PUNCT ._PUNCT  ну_PART ,_PUNCT 	вот_PART объяснить_VERB я_PRON ._PUNCT  здесь_ADV 	karenina_lemma_pos.txt
+162	 _VERB сын_NOUN и_CCONJ уехать_VERB ._PUNCT  	вот_PART один_NUM ,_PUNCT что_PRON она_PRON 	karenina_lemma_pos.txt
+163	 движение_NOUN его_DET рука_NOUN ._PUNCT  --_PUNCT 	вот_PART один_NUM ,_PUNCT один_NUM ,_PUNCT что_	karenina_lemma_pos.txt
+164	  не_PART видно_ADV быть_AUX ._PUNCT  --_PUNCT 	вот_PART он_PRON !_PUNCT --_PUNCT сказать_VERB Левин_	karenina_lemma_pos.txt
+165	 CT  --_PUNCT лететь_VERB ._PUNCT ._PUNCT ._PUNCT  	вот_PART он_PRON ,_PUNCT так_ADV и_PART 	karenina_lemma_pos.txt
+166	  Вронский_PROPN ._PUNCT  --_PUNCT а_CCONJ !_PUNCT 	вот_PART он_PRON !_PUNCT --_PUNCT крикнуть_VERB он_	karenina_lemma_pos.txt
+167	 _PROPN свистать_VERB ,_PUNCT но_CCONJ что_SCONJ 	вот_PART он_PRON не_PART наказать_VERB ,_PUNCT 	karenina_lemma_pos.txt
+168	 _PRON бы_AUX говорить_VERB :_PUNCT а_CCONJ 	вот_PART он_PRON быть_AUX бы_AUX такой_	karenina_lemma_pos.txt
+169	 ть_VERB ,_PUNCT Александр_PROPN ?_PUNCT  --_PUNCT 	вот_PART он_PRON ,_PUNCT --_PUNCT сказать_VERB старый_	karenina_lemma_pos.txt
+170	 евна_PROPN ,_PUNCT он_PRON приехать_VERB ._PUNCT  	вот_PART он_PRON !_PUNCT --_PUNCT говорить_VERB акушерка_	karenina_lemma_pos.txt
+171	 днять_VERB кверху_ADV глаз_NOUN ._PUNCT  --_PUNCT 	вот_PART он_PRON ,_PUNCT я_PRON знать_VERB !_	karenina_lemma_pos.txt
+172	  iv_NUM  --_PUNCT приехать_VERB !_PUNCT  --_PUNCT 	вот_PART он_PRON !_PUNCT --_PUNCT который_PRON ?_PUNCT  --	karenina_lemma_pos.txt
+173	  ,_PUNCT то_PRON быть_VERB дикий_ADJ ._PUNCT  	вот_PART он_PRON такой_DET ._PUNCT  он_PRON 	karenina_lemma_pos.txt
+174	 _NOUN сын_NOUN ._PUNCT  «_PUNCT да_PART ,_PUNCT 	вот_PART он_PRON !_PUNCT »_PUNCT --_PUNCT сказать_VERB 	karenina_lemma_pos.txt
+175	 _CCONJ кто_PRON они»_PRON ._PUNCT  но_CCONJ 	вот_PART он_PRON толкнуть_VERB она_DET колено_	karenina_lemma_pos.txt
+176	  поехать_VERB с_ADP она_PRON ._PUNCT  --_PUNCT 	вот_PART он_PRON я_PRON портить_VERB ,_PUNCT --_	karenina_lemma_pos.txt
+177	   ну_PART ,_PUNCT все_PRON равный_ADJ ._PUNCT  	вот_PART он_PRON всегда_ADV на_ADP бильярд_	karenina_lemma_pos.txt
+178	 N положение_NOUN ._PUNCT  «_PUNCT да_PART ,_PUNCT 	вот_PART он_PRON перестать_VERB теперь_ADV притворяться_	karenina_lemma_pos.txt
+179	 _ADV подойти_VERB к_ADP окно_NOUN ._PUNCT  	вот_PART он_PRON выйти_VERB без_ADP шляпа_	karenina_lemma_pos.txt
+180	 _PRON выйти_VERB опять_ADV ._PUNCT  но_CCONJ 	вот_PART он_PRON опять_ADV войти_VERB в_	karenina_lemma_pos.txt
+181	 толпиться_VERB к_ADP дверь_NOUN ._PUNCT  --_PUNCT 	вот_PART он_PRON !_PUNCT --_PUNCT проговорить_VERB княгиня	karenina_lemma_pos.txt
+182	  ,_PUNCT не_PART видеть_VERB жена_NOUN ;_PUNCT 	вот_PART она_PRON !_PUNCT  он_PRON улыбнуться_VERB 	karenina_lemma_pos.txt
+183	 NCT позволить_VERB спросить_VERB ._PUNCT  «_PUNCT 	вот_PART она_PRON --_PUNCT рабочий_ADJ сила_NOUN ,_	karenina_lemma_pos.txt
+184	 _NOUN быть_AUX счастье_NOUN ;_PUNCT и_CCONJ 	вот_PART она_PRON любить_VERB он_PRON ,_PUNCT 	karenina_lemma_pos.txt
+185	  на_ADP вокзал_NOUN ._PUNCT  xxx_NUM  «_PUNCT 	вот_PART она_PRON опять_ADV !_PUNCT  опять_ADV 	karenina_lemma_pos.txt
+186	  что-то_PRON особенный_ADJ доказать_VERB ._PUNCT  	вот_PART она_PRON и_PART доказать_VERB ._PUNCT  	karenina_lemma_pos.txt
+187	 _NOUN и_CCONJ этот_DET букашка_NOUN (_PUNCT 	вот_PART она_PRON не_PART захотеть_VERB на_	karenina_lemma_pos.txt
+188	 _PRON и_PART теперь_ADV чувствовать_VERB ,_PUNCT 	вот_PART они_PRON ,_PUNCT пуд_NOUN на_ADP 	karenina_lemma_pos.txt
+189	 AUX !_PUNCT ._PUNCT  ждать_VERB ,_PUNCT что_SCONJ 	вот_PART они_PRON явиться_VERB из_ADP лес_	karenina_lemma_pos.txt
+190	 NCT как_SCONJ говорить_VERB француз_NOUN ._PUNCT  	вот_PART они_PRON хотеться_VERB этот_DET грязный_	karenina_lemma_pos.txt
+191	 ничто_PRON не_PART ответить_VERB ._PUNCT  «_PUNCT 	вот_PART оно_PRON !_PUNCT --_PUNCT с_ADP восторг_	karenina_lemma_pos.txt
+192	  не_PART быть_VERB конец_NOUN ,_PUNCT --_PUNCT 	вот_PART оно_PRON !_PUNCT  она_PRON любить_VERB 	karenina_lemma_pos.txt
+193	 -да-да_PART -да_PUNCT ._PUNCT ._PUNCT ._PUNCT  	вот_PART оно_PRON !_PUNCT --_PUNCT и_CCONJ Петрицкий_	karenina_lemma_pos.txt
+194	 -_PUNCT проговорить_VERB он_PRON ._PUNCT  «_PUNCT 	вот_PART оно_PRON ,_PUNCT объяснение»_NOUN ,_PUNCT --_PUNC	karenina_lemma_pos.txt
+195	 NCT сказать_VERB Вронский_PROPN ._PUNCT  --_PUNCT 	вот_PART оно_PRON !_PUNCT  вот_PART оно_PRON !_	karenina_lemma_pos.txt
+196	 ROPN ._PUNCT  --_PUNCT вот_PART оно_PRON !_PUNCT  	вот_PART оно_PRON !_PUNCT --_PUNCT смеяться_VERB ,_PUNCT 	karenina_lemma_pos.txt
+197	 ERB свой_DET независимость_NOUN ._PUNCT  --_PUNCT 	вот_PART оно_PRON ,_PUNCT из_ADP послание_NOUN 	karenina_lemma_pos.txt
+198	 _AUX убедить_VERB я_PRON ._PUNCT  а_CCONJ 	вот_PART оно_PRON чудо_NOUN ,_PUNCT единственно_PART 	karenina_lemma_pos.txt
+199	 бать_VERB тонкий_ADJ побег_NOUN ._PUNCT  --_PUNCT 	вот_PART отлично_ADV !_PUNCT  общий_ADJ !_PUNCT --_PUNCT 	karenina_lemma_pos.txt
+200	  еще_ADV за_ADP границеа_NOUN ._PUNCT  --_PUNCT 	вот_PART отлично_ADV !_PUNCT  непременно_ADV съезжить_VERB	karenina_lemma_pos.txt
+201	 _VERB и_CCONJ гаснуть_VERB ,_PUNCT и_CCONJ 	вот_PART отчего_ADV мы_PRON расходиться_VERB ,_PUNCT --_	karenina_lemma_pos.txt
+202	 _PART не_PART сказать_VERB ._PUNCT  и_CCONJ 	вот_PART письмо_NOUN этот_DET признавать_VERB слово_	karenina_lemma_pos.txt
+203	 RB по-английски_ADV девочка_NOUN ,_PUNCT --_PUNCT 	вот_PART подбирать_VERB !_PUNCT  «_PUNCT все_PRON смеситьс	karenina_lemma_pos.txt
+204	 _ADV ._PUNCT  --_PUNCT как_ADV мало_ADV ?_PUNCT 	вот_PART поехать_VERB с_ADP я_PRON в_	karenina_lemma_pos.txt
+205	 B разговор_NOUN ._PUNCT  --_PUNCT да_PART ,_PUNCT 	вот_PART пожить_VERB у_ADP ты_PRON месяц_	karenina_lemma_pos.txt
+206	 _PRON там_ADV поесть_VERB ._PUNCT  а_CCONJ 	вот_PART пойти_VERB умояться_VERB ._PUNCT  --_PUNCT ну_	karenina_lemma_pos.txt
+207	  и_CCONJ гордый_ADJ блеск_NOUN ._PUNCT  «_PUNCT 	вот_PART положение_NOUN !_PUNCT --_PUNCT думать_VERB он_	karenina_lemma_pos.txt
+208	 _ADV вот_PART Бог_PROPN ,_PUNCT а_CCONJ 	вот_PART порог_NOUN ._PUNCT  и_CCONJ опять_ADV 	karenina_lemma_pos.txt
+209	 _PART я_PRON ужасно_ADV хотеться_VERB ._PUNCT  	вот_PART постой_ADJ ._PUNCT  --_PUNCT она_PRON нагнуться_	karenina_lemma_pos.txt
+210	 _ADV быть_VERB драма_NOUN ._PUNCT  и_CCONJ 	вот_PART почему_ADV ._PUNCT  по-моему_ADV ,_PUNCT 	karenina_lemma_pos.txt
+211	  направо_ADV ,_PUNCT налево_ADV ,_PUNCT и_CCONJ 	вот_PART пред_ADP он_PRON на_ADP мутный_	karenina_lemma_pos.txt
+212	 _PRON не_PART бывать_VERB ._PUNCT  ты_PRON 	вот_PART презирать_VERB общественный_ADJ служебный_ADJ дея	karenina_lemma_pos.txt
+213	  нога_NOUN ._PUNCT  вот_PART так_ADV ,_PUNCT 	вот_PART прекрасно_ADV ._PUNCT  как_ADV этот_DET 	karenina_lemma_pos.txt
+214	 _CCONJ сила_NOUN быть_VERB ,_PUNCT и_CCONJ 	вот_PART при_ADP какой_DET условие_NOUN она_	karenina_lemma_pos.txt
+215	 _NOUN к_ADP я_PRON приехать_VERB ?_PUNCT  	вот_PART приезжать_VERB весна_NOUN на_ADP тяга_	karenina_lemma_pos.txt
+216	  получить_VERB твой_DET письмо_NOUN и_CCONJ 	вот_PART приехать_VERB ._PUNCT  --_PUNCT да_PART ,_PUNCT 	karenina_lemma_pos.txt
+217	 CT  --_PUNCT а_CCONJ !_PUNCT княгиня_NOUN !_PUNCT 	вот_PART приятный_ADJ встреча_NOUN !_PUNCT --_PUNCT загово	karenina_lemma_pos.txt
+218	 вный_ADJ отношение_NOUN ._PUNCT  --_PUNCT а_CCONJ 	вот_PART проснуться_VERB ,_PUNCT бог_NOUN дать_VERB ,_	karenina_lemma_pos.txt
+219	 _PRON ._PUNCT  --_PUNCT ну_PART ,_PUNCT так_ADV 	вот_PART прочесть_VERB ._PUNCT  я_PRON сказать_VERB 	karenina_lemma_pos.txt
+220	  оба_NUM рука_NOUN кверху_ADV ._PUNCT  --_PUNCT 	вот_PART радостный_ADJ -_PUNCT то_PART гость_NOUN !_	karenina_lemma_pos.txt
+221	 _CCONJ не_PART смести_VERB думать_VERB ._PUNCT  	вот_PART радость_NOUN !_PUNCT  ты_PRON не_PART 	karenina_lemma_pos.txt
+222	 а_NOUN оглядывать_VERB она_PRON ._PUNCT  --_PUNCT 	вот_PART радость_NOUN ,_PUNCT Алексей_PROPN !_PUNCT --_PUN	karenina_lemma_pos.txt
+223	 _ADJ друг_NOUN ._PUNCT  --_PUNCT да_PART ,_PUNCT 	вот_PART расти_VERB ,_PUNCT --_PUNCT сказать_VERB она_	karenina_lemma_pos.txt
+224	 T --_PUNCT сказать_VERB он_PRON ._PUNCT  --_PUNCT 	вот_PART с_ADP вы_PRON я_PRON бы_	karenina_lemma_pos.txt
+225	 ь_VERB приветствие_NOUN ._PUNCT  --_PUNCT мы_PRON 	вот_PART с_ADP он_PRON иметь_VERB самый_	karenina_lemma_pos.txt
+226	 _VERB за_ADP это_PRON ._PUNCT  а_CCONJ 	вот_PART сейчас_ADV ты_PRON видеть_VERB дом_	karenina_lemma_pos.txt
+227	 CT --_PUNCT думать_VERB он_PRON ._PUNCT  --_PUNCT 	вот_PART скоро_ADV три_NUM месяц_NOUN ,_PUNCT 	karenina_lemma_pos.txt
+228	 B ,_PUNCT колбасик_NOUN ?_PUNCT  --_PUNCT а_CCONJ 	вот_PART слушать_VERB ._PUNCT  нынче_ADV я_PRON 	karenina_lemma_pos.txt
+229	 ,_PUNCT что_PRON случиться_VERB ._PUNCT  --_PUNCT 	вот_PART смерть_NOUN -_PUNCT то_PART ужасный_ADJ !_	karenina_lemma_pos.txt
+230	  утешать_VERB ,_PUNCT барыня_NOUN ._PUNCT  я_PRON 	вот_PART смотреть_VERB на_ADP вы_PRON с_	karenina_lemma_pos.txt
+231	  ,_PUNCT чем_SCONJ ты_PRON ._PUNCT  ты_PRON 	вот_PART смотреть_VERB на_ADP этот_DET старичок_	karenina_lemma_pos.txt
+232	 _ADV они_PRON сказать_VERB ,_PUNCT что_SCONJ 	вот_PART собирать_VERB на_ADP душеспасительный_ADJ дело_	karenina_lemma_pos.txt
+233	  к_ADP входить_VERB няня_NOUN ._PUNCT  --_PUNCT 	вот_PART судить_VERB ,_PUNCT Марья_PROPN Ефимовна_PROPN :_	karenina_lemma_pos.txt
+234	 UNCT покачивать_VERB голова_NOUN ,_PUNCT --_PUNCT 	вот_PART счастливец_NOUN !_PUNCT  три_NUM тысяча_NOUN 	karenina_lemma_pos.txt
+235	 _ADP смерть_NOUN свой_DET ребенок_NOUN ._PUNCT  	вот_PART счастье_NOUN ,_PUNCT который_PRON давать_VERB 	karenina_lemma_pos.txt
+236	   я_PRON умирать_VERB пора_NOUN ._PUNCT  --_PUNCT 	вот_PART так_ADV штука_NOUN !_PUNCT --_PUNCT смеяться_	karenina_lemma_pos.txt
+237	 чь_VERB преодолеть_VERB он_PRON ._PUNCT  --_PUNCT 	вот_PART так_ADV ,_PUNCT вот_PART это_PRON 	karenina_lemma_pos.txt
+238	 _ADP окно_NOUN --_PUNCT вы_PRON сидеть_VERB 	вот_PART так_ADV и_CCONJ оба_NUM рука_	karenina_lemma_pos.txt
+239	 ART немножко_ADV вытянуть_VERB нога_NOUN ._PUNCT  	вот_PART так_ADV ,_PUNCT вот_PART прекрасно_ADV ._	karenina_lemma_pos.txt
+240	   --_PUNCT как_ADV обирать_VERB ?_PUNCT  --_PUNCT 	вот_PART так_ADV ,_PUNCT --_PUNCT сказать_VERB она_	karenina_lemma_pos.txt
+241	  как_ADV не_PART брать_VERB ?_PUNCT  --_PUNCT 	вот_PART так_ADV ,_PUNCT --_PUNCT сказать_VERB она_	karenina_lemma_pos.txt
+242	  ._PUNCT  а_CCONJ надо_ADV ,_PUNCT чтобы_SCONJ 	вот_PART так_ADV ._PUNCT ._PUNCT ._PUNCT  --_PUNCT мужик_	karenina_lemma_pos.txt
+243	 --_PUNCT ужасно_ADV страшный_ADJ !_PUNCT  и_CCONJ 	вот_PART так_ADV рука_NOUN делать_VERB ,_PUNCT --_	karenina_lemma_pos.txt
+244	  белый_ADJ полоса_NOUN ._PUNCT  да_PART ,_PUNCT 	вот_PART так-то_ADV незаметно_ADV измениться_VERB 	karenina_lemma_pos.txt
+245	 бежать_VERB из_ADP комната_NOUN ._PUNCT  --_PUNCT 	вот_PART твой_DET шутка_NOUN !_PUNCT --_PUNCT напуститься_	karenina_lemma_pos.txt
+246	 ,_PUNCT что_SCONJ скарлатина_NOUN ._PUNCT  я_PRON 	вот_PART теперь_ADV выехать_VERB ,_PUNCT чтобы_SCONJ 	karenina_lemma_pos.txt
+247	 ERB дело_NOUN ,_PUNCT необходимость_NOUN ._PUNCT  	вот_PART теперь_ADV я_PRON надо_ADV быть_	karenina_lemma_pos.txt
+248	 _ADP задний_ADJ план_NOUN выделять_VERB !_PUNCT  	вот_PART техника_NOUN ,_PUNCT --_PUNCT сказать_VERB он_	karenina_lemma_pos.txt
+249	 _PRON свобода_NOUN ,_PUNCT а_CCONJ мы_PRON 	вот_PART только_PART смеяться_VERB ._PUNCT  --_PUNCT но_	karenina_lemma_pos.txt
+250	 --_PUNCT повторить_VERB он_PRON ._PUNCT  --_PUNCT 	вот_PART только_PART изволок_NOUN выехать_VERB ._PUNCT  	karenina_lemma_pos.txt
+251	 NOUN начаться_VERB настоящий_ADJ ._PUNCT  а_CCONJ 	вот_PART три_NUM месяц_NOUN скоро_ADV ,_PUNCT 	karenina_lemma_pos.txt
+252	 -_PUNCT косичка_NOUN ._PUNCT  видеть_VERB ,_PUNCT 	вот_PART тут_ADV ._PUNCT  нет_PART ,_PUNCT нет_	karenina_lemma_pos.txt
+253	 ONJ один_NUM ужасный_ADJ ._PUNCT ._PUNCT ._PUNCT  	вот_PART ты_PRON жениться_VERB ,_PUNCT ты_PRON 	karenina_lemma_pos.txt
+254	 UNCT непременно_ADV считать_VERB ._PUNCT  а_CCONJ 	вот_PART ты_PRON не_PART считать_VERB ,_PUNCT 	karenina_lemma_pos.txt
+255	  сказать_VERB он_PRON ._PUNCT  --_PUNCT и_CCONJ 	вот_PART ты_PRON мой_DET мнение_NOUN ._PUNCT  	karenina_lemma_pos.txt
+256	  стол_NOUN под_ADP лампа_NOUN ._PUNCT  --_PUNCT 	вот_PART ты_PRON наказание_NOUN за_ADP то_	karenina_lemma_pos.txt
+257	  --_PUNCT ну_PART ,_PUNCT разумеется_ADV !_PUNCT  	вот_PART ты_PRON и_PART прийти_VERB к_	karenina_lemma_pos.txt
+258	  заговорить_VERB :_PUNCT --_PUNCT да_PART ,_PUNCT 	вот_PART ты_PRON бы_AUX не_PART впустить_	karenina_lemma_pos.txt
+259	  ,_PUNCT кроме_ADP то_PRON ,_PUNCT чтобы_SCONJ 	вот_PART ты_PRON не_PART споткнуться_VERB ._PUNCT  	karenina_lemma_pos.txt
+260	 PROPN ._PUNCT  ну_PART ,_PUNCT Таня_PROPN ,_PUNCT 	вот_PART ты_PRON !_PUNCT  достать_VERB ,_PUNCT пожалуйста_	karenina_lemma_pos.txt
+261	 о_ADV отвечать_VERB Левин_PROPN ._PUNCT  --_PUNCT 	вот_PART ты_PRON говорить_VERB ,_PUNCT что_SCONJ 	karenina_lemma_pos.txt
+262	 елаться_VERB шлюпик_NOUN ._PUNCT  да_PART ,_PUNCT 	вот_PART ты_PRON сметься_VERB ,_PUNCT а_CCONJ 	karenina_lemma_pos.txt
+263	  это_PRON замечательный_ADJ женщина_NOUN ._PUNCT  	вот_PART ты_PRON видеть_VERB ._PUNCT  положение_NOUN 	karenina_lemma_pos.txt
+264	  ресурс_NOUN ._PUNCT  она_PRON же_PART ,_PUNCT 	вот_PART ты_PRON видеть_VERB ,_PUNCT как_ADV 	karenina_lemma_pos.txt
+265	 тропический_ADJ что-нибудь_PRON ?_PUNCT  --_PUNCT 	вот_PART ты_PRON все_PRON хотеть_VERB видеть_	karenina_lemma_pos.txt
+266	 _VERB к_ADP себя_PRON ._PUNCT  да_CCONJ 	вот_PART ты_PRON видеть_VERB она_PRON ._PUNCT  	karenina_lemma_pos.txt
+267	 _AUX кончиться_VERB давно_ADV уже_ADV ,_PUNCT 	вот_PART тянуться_VERB три_NUM месяц_NOUN ._PUNCT  	karenina_lemma_pos.txt
+268	 ега_NOUN подъехать_VERB ._PUNCT  --_PUNCT а_CCONJ 	вот_PART у_ADP мы_PRON ,_PUNCT помещик_NOUN ,_	karenina_lemma_pos.txt
+269	  ._PUNCT  и_CCONJ слышно_ADV все_PRON !_PUNCT  	вот_PART у_ADP вы_PRON в_ADP суд_	karenina_lemma_pos.txt
+270	 -_PUNCT сказать_VERB князь_NOUN ._PUNCT  --_PUNCT 	вот_PART у_ADP я_PRON зятек_NOUN ,_PUNCT 	karenina_lemma_pos.txt
+271	  все_PRON это_PRON знать_VERB ._PUNCT  --_PUNCT 	вот_PART уж_PART в_ADP это_PRON вы_	karenina_lemma_pos.txt
+272	 кормить_VERB огромный_ADJ семейство_NOUN ._PUNCT  	вот_PART ужас_NOUN !_PUNCT  --_PUNCT нельзя_ADV ли_	karenina_lemma_pos.txt
+273	  --_PUNCT нет_PART ,_PUNCT кончаться_VERB ;_PUNCT 	вот_PART уже_ADV он_PRON кланяться_VERB в_	karenina_lemma_pos.txt
+274	 NCT  --_PUNCT а_CCONJ ,_PUNCT найти_VERB !_PUNCT  	вот_PART умница_NOUN ,_PUNCT --_PUNCT сказать_VERB он_	karenina_lemma_pos.txt
+275	  брат_NOUN ._PUNCT  --_PUNCT и_CCONJ мы_PRON 	вот_PART устраивать_VERB артель_NOUN слесарный_ADJ ,_PUNCT	karenina_lemma_pos.txt
+276	 _VERB более_ADV жить_VERB вместе_ADV --_PUNCT 	вот_PART факт_NOUN ._PUNCT  и_CCONJ если_SCONJ 	karenina_lemma_pos.txt
+277	 _CCONJ вот_PART видеть_VERB ._PUNCT  вы_PRON 	вот_PART хозяйство_NOUN любить_VERB ,_PUNCT охота_NOUN ,_	karenina_lemma_pos.txt
+278	 ON ._PUNCT  --_PUNCT разор_NOUN один_DET ._PUNCT  	вот_PART хоть_ADV бы_AUX Свияжсков_PROPN ._PUNCT  	karenina_lemma_pos.txt
+279	 _VERB из_ADP мы_PRON тоже_PART ,_PUNCT 	вот_PART хоть_ADV бы_AUX наш_DET приятель_	karenina_lemma_pos.txt
+280	 PUNCT  ведь_PART человек_NOUN разный_ADJ ._PUNCT  	вот_PART хоть_ADV вы_PRON брать_VERB ,_PUNCT 	karenina_lemma_pos.txt
+281	 _ADV будто_PART задуматься_VERB ._PUNCT  --_PUNCT 	вот_PART что_PRON :_PUNCT поехать_VERB к_ADP 	karenina_lemma_pos.txt
+282	 _PART совсем_ADV здоровый_ADJ ._PUNCT  а_CCONJ 	вот_PART что_PRON :_PUNCT если_SCONJ ты_PRON 	karenina_lemma_pos.txt
+283	 _ADP который_PRON я_PRON платить_VERB ._PUNCT  	вот_PART что_PRON он_PRON я_PRON ответить_	karenina_lemma_pos.txt
+284	 ADJ дочь_NOUN ._PUNCT  --_PUNCT что_PRON ?_PUNCT  	вот_PART что_PRON !_PUNCT --_PUNCT кричать_VERB князь_	karenina_lemma_pos.txt
+285	 _PRON вы_PRON делать_VERB ?_PUNCT  а_CCONJ 	вот_PART что_PRON :_PUNCT во-первых_ADV ,_PUNCT 	karenina_lemma_pos.txt
+286	  садиться_VERB ._PUNCT  --_PUNCT а_CCONJ ты_PRON 	вот_PART что_PRON ,_PUNCT Катя_PROPN ,_PUNCT --_PUNCT 	karenina_lemma_pos.txt
+287	 -то_DET стена_NOUN ._PUNCT  --_PUNCT я_PRON 	вот_PART что_PRON намерен_ADJ сказать_VERB ,_PUNCT --_	karenina_lemma_pos.txt
+288	  то_PRON ,_PUNCT что_PRON сказать_VERB ._PUNCT  	вот_PART что_PRON быть_VERB ._PUNCT  это_PRON 	karenina_lemma_pos.txt
+289	   ну_PART что_PRON ?_PUNCT  --_PUNCT а_CCONJ 	вот_PART что_PRON ,_PUNCT --_PUNCT сказать_VERB доктор_	karenina_lemma_pos.txt
+290	 обы_SCONJ он_PRON подавать_VERB ._PUNCT  --_PUNCT 	вот_PART что_PRON ,_PUNCT --_PUNCT сказать_VERB доктор_	karenina_lemma_pos.txt
+291	 _VERB в_ADP это_PRON ;_PUNCT но_CCONJ 	вот_PART что_PRON он_PRON писать_VERB я_	karenina_lemma_pos.txt
+292	  ._PUNCT  --_PUNCT я_PRON очень_ADV занимать_VERB 	вот_PART что_PRON ,_PUNCT --_PUNCT сказать_VERB Левин_	karenina_lemma_pos.txt
+293	  --_PUNCT жениться_VERB вы_PRON надо_ADV ,_PUNCT 	вот_PART что_PRON !_PUNCT  упоминание_NOUN Агафья_PROPN 	karenina_lemma_pos.txt
+294	 остановить_VERB он_PRON ._PUNCT  --_PUNCT а_CCONJ 	вот_PART что_PRON мы_PRON делать_VERB завтра_	karenina_lemma_pos.txt
+295	 _CCONJ изменить_VERB свой_DET муж_NOUN ._PUNCT  	вот_PART что_PRON она_PRON делать_VERB ,_PUNCT --_	karenina_lemma_pos.txt
+296	 _PART ,_PUNCT да_PART ,_PUNCT да_PART ._PUNCT  	вот_PART что_PRON я_PRON хотеть_VERB сказать_	karenina_lemma_pos.txt
+297	 _ADP то_PRON же_PART ._PUNCT  и_CCONJ 	вот_PART что_PRON я_PRON начать_VERB писать_	karenina_lemma_pos.txt
+298	  с_ADP лицо_NOUN Каренин_PROPN ._PUNCT  --_PUNCT 	вот_PART что_PRON я_PRON хотеть_VERB сказать_	karenina_lemma_pos.txt
+299	 _NOUN ._PUNCT  --_PUNCT ну_PART ,_PUNCT так_ADV 	вот_PART что_PRON мы_PRON делать_VERB :_PUNCT 	karenina_lemma_pos.txt
+300	 _PRON смотреть_VERB и_CCONJ писать_VERB ._PUNCT  	вот_PART что_PRON значить_VERB техника_NOUN ._PUNCT  --_	karenina_lemma_pos.txt
+301	  ничто_PRON ,_PUNCT но_CCONJ носить_VERB --_PUNCT 	вот_PART что_PRON мучительный_ADJ ,_PUNCT --_PUNCT подумат	karenina_lemma_pos.txt
+302	  ,_PUNCT не_PART знать_VERB ._PUNCT  но_CCONJ 	вот_PART что_PRON ты_PRON я_PRON сказать_	karenina_lemma_pos.txt
+303	 ин_PROPN из_ADP затруднение_NOUN ._PUNCT  «_PUNCT 	вот_PART что_PRON пробовать_VERB ,_PUNCT --_PUNCT не_	karenina_lemma_pos.txt
+304	 RB всякий_DET политический_ADJ такт_NOUN ._PUNCT  	вот_PART что_PRON мы_PRON ,_PUNCT русский_NOUN ,_	karenina_lemma_pos.txt
+305	 -_PUNCT нравственный_ADJ воспитание_NOUN ._PUNCT  	вот_PART что_PRON я_PRON учуться_VERB ,_PUNCT 	karenina_lemma_pos.txt
+306	 _VERB у_ADP вы_PRON нынче_ADV ._PUNCT  	вот_PART что_PRON ,_PUNCT Арсений_PROPN ,_PUNCT --_PUNCT 	karenina_lemma_pos.txt
+307	 _VERB судьба_NOUN ваш_DET сестра_NOUN ._PUNCT  	вот_PART что_PRON происходить_VERB от_ADP жизнь_	karenina_lemma_pos.txt
+308	  он_PRON к_ADP он_PRON ._PUNCT  --_PUNCT 	вот_PART что_PRON в_ADP церковь_NOUN читать_	karenina_lemma_pos.txt
+309	 _PRON заговорить_VERB тоже_PART ._PUNCT  --_PUNCT 	вот_PART что_PRON ,_PUNCT Костя_PROPN !_PUNCT  делать_	karenina_lemma_pos.txt
+310	 _PRON не_PART в_ADP постель_NOUN ?_PUNCT  	вот_PART чудо_NOUN !_PUNCT --_PUNCT сказать_VERB она_	karenina_lemma_pos.txt
+311	 _ADP что_PRON я_PRON молиться_VERB ._PUNCT  	вот_PART чуть_ADV быть_AUX не_PART сказать_	karenina_lemma_pos.txt
+312	 ONJ много_ADV маленький_ADJ ножницы_NOUN ._PUNCT  	вот_PART этак_ADV ._PUNCT  Анна_PROPN брать_VERB 	karenina_lemma_pos.txt
+313	  ,_PUNCT сам_ADJ видеть_VERB ._PUNCT  как_SCONJ 	вот_PART этак_NOUN делать_VERB ,_PUNCT он_PRON 	karenina_lemma_pos.txt
+314	 -_PUNCT дипломат_NOUN ,_PUNCT артист_NOUN ,_PUNCT 	вот_PART этакий_ADJ что-то_PRON ._PUNCT  --_PUNCT 	karenina_lemma_pos.txt
+315	  в_ADP его_DET уезд_NOUN ._PUNCT  --_PUNCT 	вот_PART это_PRON всегда_ADV так_ADV !_PUNCT --_	karenina_lemma_pos.txt
+316	 NCT --_PUNCT думать_VERB он_PRON ,_PUNCT --_PUNCT 	вот_PART это_PRON жизнь_NOUN ,_PUNCT вот_PART 	karenina_lemma_pos.txt
+317	  --_PUNCT вот_PART это_PRON жизнь_NOUN ,_PUNCT 	вот_PART это_PRON счастье_NOUN !_PUNCT  вместе_ADV ,_	karenina_lemma_pos.txt
+318	 _ADV быть_AUX не_PART ехать_VERB ._PUNCT  	вот_PART это_PRON взять_VERB ,_PUNCT --_PUNCT сказать_	karenina_lemma_pos.txt
+319	 N и_CCONJ признак_NOUN удовольствие_NOUN ._PUNCT  	вот_PART это_PRON жизнь_NOUN !_PUNCT  как_ADV 	karenina_lemma_pos.txt
+320	  так_ADV ,_PUNCT бутылочка_NOUN ._PUNCT  --_PUNCT 	вот_PART это_PRON умный_ADJ ._PUNCT  постоять_VERB ,_	karenina_lemma_pos.txt
+321	 DET привязчивый_ADJ вопрос_NOUN ._PUNCT  --_PUNCT 	вот_PART это_PRON лучший_ADJ манера_NOUN ,_PUNCT --_	karenina_lemma_pos.txt
+322	 _ADV граф_NOUN поесть_VERB !_PUNCT  а_CCONJ 	вот_PART это_PRON пить_VERB ._PUNCT  кутеж_NOUN 	karenina_lemma_pos.txt
+323	 ашина_NOUN --_PUNCT убыток_NOUN ._PUNCT  --_PUNCT 	вот_PART это_PRON верный_ADJ ,_PUNCT --_PUNCT засмеяться_	karenina_lemma_pos.txt
+324	 RON другой_ADJ потребность_NOUN ._PUNCT  --_PUNCT 	вот_PART это_PRON я_PRON никогда_ADV не_	karenina_lemma_pos.txt
+325	 _PRON ._PUNCT  --_PUNCT вот_PART так_ADV ,_PUNCT 	вот_PART это_PRON хороший_ADJ ,_PUNCT --_PUNCT говорить_	karenina_lemma_pos.txt
+326	  Аркадьич_PROPN ._PUNCT  --_PUNCT да_PART ,_PUNCT 	вот_PART это_PRON самый_ADJ лучший_ADJ средство_	karenina_lemma_pos.txt
+327	  подходить_VERB к_ADP она_PRON ._PUNCT  --_PUNCT 	вот_PART это_PRON ,_PUNCT что_PRON я_PRON 	karenina_lemma_pos.txt
+328	 RON нельзя_ADV обманывать_VERB себя_PRON ._PUNCT  	вот_PART это_PRON я_PRON верить_VERB ,_PUNCT --_	karenina_lemma_pos.txt
+329	 RB ,_PUNCT сказать_VERB он_PRON ._PUNCT  --_PUNCT 	вот_PART это_PRON самый_ADJ я_PRON и_	karenina_lemma_pos.txt
+330	  на_ADP сухой_ADJ место_NOUN ._PUNCT  «_PUNCT 	вот_PART это_PRON быть_AUX толк_NOUN !_PUNCT --_	karenina_lemma_pos.txt
+331	  сказать_VERB он_PRON ._PUNCT  --_PUNCT а_CCONJ 	вот_PART это_PRON взглянить_VERB ._PUNCT ._PUNCT ._PUNCT -	karenina_lemma_pos.txt
+332	 PRON поддержать_VERB его_DET любовь_NOUN ?_PUNCT  	вот_PART это_PRON ?_PUNCT  она_PRON вытянуть_VERB 	karenina_lemma_pos.txt
+333	 CT справедливый_ADJ фигура_NOUN ._PUNCT  --_PUNCT 	вот_PART это_PRON совершенно_ADV верный_ADJ !_PUNCT --_	karenina_lemma_pos.txt
+334	   --_PUNCT что_PRON я_PRON видеть_VERB !_PUNCT  	вот_PART это_PRON хороший_ADJ !_PUNCT --_PUNCT сказать_	karenina_lemma_pos.txt
+335	  что_SCONJ он_PRON сказать_VERB :_PUNCT «_PUNCT 	вот_PART это_PRON хороший_ADJ ,_PUNCT как_SCONJ 	karenina_lemma_pos.txt
+336	  китить_VERB ,_PUNCT китить_VERB я_PRON ._PUNCT  	вот_PART это_PRON правда_NOUN ._PUNCT  Тютькин_PROPN ,_	karenina_lemma_pos.txt
+337	  ,_PUNCT а_CCONJ я_PRON он_PRON ._PUNCT  	вот_PART это_PRON правда_NOUN !_PUNCT »&lt_X ;_	karenina_lemma_pos.txt
+338	 ть_VERB великий_ADJ княгина_NOUN ._PUNCT  «_PUNCT 	вот_PART этот_DET новай_ADJ ,_PUNCT --_PUNCT говорить_	karenina_lemma_pos.txt
+339	 _VERB в_ADP сон_NOUN ._PUNCT ._PUNCT ._PUNCT  	вот_PART этот_DET женщина_NOUN бывать_VERB наяву_	karenina_lemma_pos.txt
+340	  я_PRON надо_ADV теперь_ADV вырезать_VERB 	вот_PART этот_DET дырочка_NOUN ,_PUNCT видеть_VERB ?_	karenina_lemma_pos.txt
+341	 ON подобный_ADJ ._PUNCT  --_PUNCT да_PART ,_PUNCT 	вот_PART этот_DET женщина_NOUN ,_PUNCT Марья_PROPN 	karenina_lemma_pos.txt
+342	 VERB ._PUNCT  --_PUNCT ну_PART ,_PUNCT зато_CCONJ 	вот_PART этот_DET маленький_ADJ не_PART в_	karenina_lemma_pos.txt
+343	 _CCONJ нужный_ADJ провести_VERB он_PRON ._PUNCT  	вот_PART этот_DET господин_NOUN для_ADP что_	karenina_lemma_pos.txt
+344	 _CCONJ я_PRON и_PART хотеть_VERB ._PUNCT  	вот_PART этот_DET довольный_ADJ себя_PRON ,_PUNCT --_	karenina_lemma_pos.txt
+345	 _VERB куда-то_ADV городовой_ADJ ._PUNCT  «_PUNCT 	вот_PART этот_DET --_PUNCT скорее_ADV ,_PUNCT --_PUNCT 	karenina_lemma_pos.txt
+346	 ть_VERB никакой_DET свобода_NOUN ,_PUNCT --_PUNCT 	вот_PART этот_PRON счастье_NOUN !_PUNCT »&lt_X ;_	karenina_lemma_pos.txt
+347	 _PROPN спасти_VERB я_PRON ._PUNCT  и_CCONJ 	вот_PART я_PRON жить_VERB ._PUNCT  ребенок_NOUN 	karenina_lemma_pos.txt
+348	 вить_VERB себя_PRON любить_VERB ._PUNCT  --_PUNCT 	вот_PART я_PRON и_PART прочесть_VERB твой_	karenina_lemma_pos.txt
+349	  что-нибудь_PRON да_PART стоять_VERB ?_PUNCT  	вот_PART я_PRON про_ADP себя_PRON сказать_	karenina_lemma_pos.txt
+350	 N очень_ADV заинтересовать_VERB ._PUNCT  --_PUNCT 	вот_PART я_PRON завидовать_VERB вы_PRON ,_PUNCT 	karenina_lemma_pos.txt
+351	 J работник_NOUN и_CCONJ надсмотрщик_NOUN ._PUNCT  	вот_PART я_PRON читать_VERB ,_PUNCT --_PUNCT он_	karenina_lemma_pos.txt
+352	 ь_VERB ,_PUNCT приказать_VERB нельзя_ADV ._PUNCT  	вот_PART я_PRON полюбить_VERB этот_DET девочка_	karenina_lemma_pos.txt
+353	 _VERB с_ADP графин_NOUN ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT вы_PRON ,_PUNCT графиня_NOUN ,_	karenina_lemma_pos.txt
+354	 UN подходить_VERB Кити_PROPN ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT Кити_PROPN ,_PUNCT твой_DET 	karenina_lemma_pos.txt
+355	 говаривать_VERB что-то»_PRON ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT вы_PRON сам_ADJ говорить_	karenina_lemma_pos.txt
+356	 считать_VERB ._PUNCT ._PUNCT ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT я_PRON очень_ADV рад_	karenina_lemma_pos.txt
+357	 B всякий_DET разговор_NOUN ._PUNCT  --_PUNCT ведь_	PART вот_PART ,_PUNCT --_PUNCT говорить_VERB Катавасов_PRO	karenina_lemma_pos.txt
+358	 я_VERB ,_PUNCT Чириков_PROPN ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT ей-богу_PART ,_PUNCT --_PUNCT 	karenina_lemma_pos.txt
+359	 _NOUN развлечь_VERB он_PRON ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT теперь_ADV мы_PRON сясть_	karenina_lemma_pos.txt
+360	 _NOUN ,_PUNCT по_ADP книжка_NOUN ._PUNCT  только_	PART вот_PART ,_PUNCT как_SCONJ Стива_PROPN приехать_	karenina_lemma_pos.txt
+361	 NCT сказать_VERB Левин_PROPN ._PUNCT  --_PUNCT да_	PART вот_PART ,_PUNCT как_SCONJ вы_PRON сказать_	karenina_lemma_pos.txt
+362	  определенный_ADJ место_NOUN ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT подить_VERB сюда_ADV ,_PUNCT 	karenina_lemma_pos.txt
+363	 _CCONJ он_PRON смотреть_VERB ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT пускай_PART папа_NOUN смотреть_	karenina_lemma_pos.txt
+364	 RB Сергей_PROPN Иваныч_PROPN ._PUNCT  --_PUNCT ну_	PART вот_PART ._PUNCT  я_PRON и_PART говорить_	karenina_lemma_pos.txt
+365	 _ADP он_PRON губка_NOUN ._PUNCT  --_PUNCT ну_	PART вот_PART ,_PUNCT смотреть_VERB ,_PUNCT смотреть_VERB 	karenina_lemma_pos.txt
+366	 CT забавляться_VERB это_PRON ._PUNCT  --_PUNCT да_	PART вот_PART ведь_PART вести_VERB же_PART 	karenina_lemma_pos.txt
+367	 PUNCT  --_PUNCT как_ADV прийтись_VERB ._PUNCT  да_	PART вот_PART взять_VERB на_ADP расход_NOUN ,_	karenina_lemma_pos.txt
+368	 _AUX в_ADP болото_NOUN ._PUNCT  --_PUNCT ну_	PART вот_PART видеть_VERB ,_PUNCT что_SCONJ я_	karenina_lemma_pos.txt
+369	 _ADV наверно_ADV быть_VERB ._PUNCT  --_PUNCT ну_	PART вот_PART видеть_VERB ли_PART ,_PUNCT господин_	karenina_lemma_pos.txt
+370	 _X cour_X ._PUNCT  xx_NUM  --_PUNCT ну_	PART вот_PART вы_PRON и_PART Долли_PROPN ,_	karenina_lemma_pos.txt
+371	  он_PRON не_PART один_DET ._PUNCT  да_	PART вот_PART вы_PRON видеть_VERB ._PUNCT  --_PUNCT 	karenina_lemma_pos.txt
+372	 асилий_PROPN Федорович_PROPN ._PUNCT  --_PUNCT да_	PART вот_PART и_PART лошадь_NOUN слабый_ADJ 	karenina_lemma_pos.txt
+373	 OPN понравиться_VERB он_PRON ._PUNCT  --_PUNCT ну_	PART вот_PART и_PART все_PRON видеть_VERB 	karenina_lemma_pos.txt
+374	 -_PUNCT насчет_ADP ужин_NOUN ._PUNCT  --_PUNCT ну_	PART вот_PART и_PART прекрасно_ADV ,_PUNCT --_PUNCT 	karenina_lemma_pos.txt
+375	 CT говорить_VERB Долли_PROPN ._PUNCT  --_PUNCT да_	PART вот_PART и_PART она_PRON ._PUNCT  узнать_	karenina_lemma_pos.txt
+376	 _NOUN брат_NOUN ._PUNCT  --_PUNCT и_CCONJ ведь_	PART вот_PART казаться_VERB ,_PUNCT что_SCONJ уйти_	karenina_lemma_pos.txt
+377	  как_SCONJ с_ADP ты_PRON ._PUNCT  ведь_	PART вот_PART мы_PRON с_ADP ты_PRON 	karenina_lemma_pos.txt
+378	 OUN приятный_ADJ улыбка_NOUN ._PUNCT  --_PUNCT да_	PART вот_PART не_PART бросать_VERB же_PART ,_	karenina_lemma_pos.txt
+379	  борона_NOUN починить_VERB надо_ADV ._PUNCT  ведь_	PART вот_PART пахать_VERB ._PUNCT  --_PUNCT да_PART 	karenina_lemma_pos.txt
+380	  тема_NOUN прекратиться_VERB ._PUNCT  --_PUNCT да_	PART вот_PART писать_VERB почти_ADV книга_NOUN 	karenina_lemma_pos.txt
+381	 _PRON же_PART трудность_NOUN ?_PUNCT  --_PUNCT да_	PART вот_PART послушать_VERB ._PUNCT ._PUNCT ._PUNCT  мы_	karenina_lemma_pos.txt
+382	 ещать_VERB решительный_ADJ ответ_NOUN ._PUNCT  да_	PART вот_PART прочти_ADV ._PUNCT  дрожать_VERB рука_	karenina_lemma_pos.txt
+383	 потребить_VERB средство_NOUN ._PUNCT  --_PUNCT да_	PART вот_PART смотреть_VERB на_ADP лето_NOUN ._	karenina_lemma_pos.txt
+384	  Сергей_PROPN Иванович_PROPN ._PUNCT  --_PUNCT да_	PART вот_PART спросить_VERB у_ADP он_PRON ._	karenina_lemma_pos.txt
+385	 RON недосмотр_NOUN !_PUNCT  --_PUNCT да_PART ведь_	PART вот_PART ты_PRON же_PART хозяйничать_VERB 	karenina_lemma_pos.txt
+386	 _VERB он_PRON она_PRON ._PUNCT  --_PUNCT да_	PART вот_PART уж_PART второй_ADJ год_NOUN ._	karenina_lemma_pos.txt
+387	 PUNCT полезный_ADJ дело_NOUN ._PUNCT  --_PUNCT да_	PART вот_PART что_PRON хотеть_VERB ,_PUNCT я_	karenina_lemma_pos.txt
+388	 _VERB к_ADP земля_NOUN ._PUNCT  --_PUNCT да_	PART вот_PART я_PRON вы_PRON сказать_VERB ,_	karenina_lemma_pos.txt
